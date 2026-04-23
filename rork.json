@@ -1,0 +1,15 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "StashKeeper",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "PutHere",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
